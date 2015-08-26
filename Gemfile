@@ -1,0 +1,5 @@
+gem "capybara"
+gem "cucumber"
+gem "selenium-webdriver"
+gem "test-unit"
+gem "httparty"
